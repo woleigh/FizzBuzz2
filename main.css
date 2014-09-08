@@ -79,4 +79,11 @@ table {
 .main p{
   text-align: center;
 }
+h3{
+  text-align: center;
+}
 
+input{
+  display: block;
+  margin: 0 auto;
+}
